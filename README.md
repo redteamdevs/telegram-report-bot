@@ -6,7 +6,8 @@ for windows pc and macbook
 
 developer: https://t.me/pysmart 👨‍💻
 
-![C23F3595-DD31-4C26-9569-54744BF81FA7_1_105_c](https://github.com/tgmachinery/telegram-banner/assets/172055629/61ab857c-c848-46ed-948c-ce3131ac1b75)
+![red](https://github.com/user-attachments/assets/1ad06783-e1fe-4a94-a04e-373e8dc55e13)
+
 
 # report app supports:
 
