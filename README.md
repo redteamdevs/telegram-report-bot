@@ -1,5 +1,5 @@
 # telegram-banner
-a free report app that bans telegram groups, channels and users
+a report app that bans telegram groups, channels and users
 REPORT APP V2.0.0
 
 for windows pc and macbook 
@@ -19,7 +19,6 @@ developer: https://t.me/pysmart 👨‍💻
 
 > Twitter 
 
-Do not sell this tool!
 
 You’re free to message me for full guide! 
 
