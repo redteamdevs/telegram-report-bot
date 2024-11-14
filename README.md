@@ -1,5 +1,5 @@
 # telegram-banner
-a report app that bans telegram groups, channels and users
+a report app that MASS REPORTS telegram groups, channels and users
 REPORT APP V2.0.0
 
 for windows pc and macbook 
