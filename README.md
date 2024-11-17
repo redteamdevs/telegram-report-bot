@@ -31,7 +31,7 @@ https://t.me/pysmart
 
 ⚙️ app sessions 
 
-⚙️ residential proxies
+⚙️ rotational proxies
 
 developer: https://t.me/pysmart
 
