@@ -9,7 +9,7 @@ developer: https://t.me/pysmart 👨‍💻
 ![red](https://github.com/user-attachments/assets/1ad06783-e1fe-4a94-a04e-373e8dc55e13)
 
 
-# report app supports:
+# report app versio supports:
 
 > Telegram
 
