@@ -36,7 +36,7 @@ https://t.me/pysmart
 
 developer: https://t.me/pysmart
 
-developed with python3 using telethon libraries and program libraries 
+developed with python version 3 using telethon libraries and program libraries 
 
 
 
