@@ -40,4 +40,4 @@ software developed with python version 3 using telethon libraries and program li
 TELEGRAM REPORT TOOL
 TELEGRAM MASS REPORT TOOL
 TELEGRAM BAN TOOL
-RELEGRAM REPORT BAN
+TELEGRAM REPORT BAN
